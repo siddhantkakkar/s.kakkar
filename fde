@@ -1,0 +1,9 @@
+dword = input('input sentence:  ')
+dinput_word = input(('input word  ')
+word = dword.split(' ')
+input_word = dinput_word.split(' ')
+for i in range(0, len(input_word)):
+
+  if input_word == word:
+    print 'the word is there'
+  # if 
